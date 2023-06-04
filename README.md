@@ -20,7 +20,7 @@ The output file will be in Advanced SubStation Alpha(ass) format with built-in s
 * Enable vad filter that integrated within faster-whisper to improve transcribe accuracy
 
 ## How to use
-* [Click here](https://colab.research.google.com/github/Ayanaminn/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
+* [Click here](https://colab.research.google.com/github/stu92054/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
 * Upload file and follow the instruction to run the notebook.
 * The subtitle file will be automatically downloaded once done.
 
